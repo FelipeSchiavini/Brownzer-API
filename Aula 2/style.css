@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container p{
+    background-color: rgb(224, 52, 138);
+    padding: 30px;
+    font-size: larger;
+    color:bisque;
+    font-weight: 600px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: start;
+    text-align: center;
+    height: 100vh;
+    background-color: aqua;
+    width: 15%;
+}
+
+.container2 p{
+    align-self: center;
+    font-size: larger;
+    color:red;
+    font-weight: 600px;
+}
